@@ -1,0 +1,8 @@
+google-cloud-storage==1.28.1
+pandas==1.0.3
+smart-open==2.0.0
+
+
+
+
+
