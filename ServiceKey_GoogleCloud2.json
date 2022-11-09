@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-ripsaw-367515",
+  "private_key_id": "6b636bac68502a40eb5f04bb4fedd0b24f057dac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxS1VWFkfSFb0M\na3kssXm5MUr/A7ZPoAz3Hyje1pClyQj3Z6G/pU+emElJ76Y/tNi1974LLKFMywFx\nC2f+4+PuGqx5mLFCowWPCdYFSioD8uh09jwu0gvANlYvQcQqhLSmeqM1tPiyPtRK\nB2FgX0eDH/NmhzvQvmvUDlUiH7kGW7MPPDKth3OtgYmlRp7H9OX6PIZBQnNYjd60\nj5HXvl1IBXvovOe8Q+Oxi3ya+iOHamO0hIqYpoHjHmuRz7xmmvUkDLEROAFTbLVZ\nezPApOSdyqyHaqXilG9TAB9V7sqwPSKkJQGVAJ47ocXsrS7P/j/V5IfAxecXbXQe\nSUCmSQJTAgMBAAECggEABhvEWuz1mIVrOAxT5nhO61SJcvPbyi6Hg9QtAlB+N1gP\n2QZXClVVwu8YR1XccoF2nf5lK9ljzVOJPy3XbW7IoaGFo8LhCJy5Sk5ac2A0xmIO\nJEl/lVVjVkIJAiPP8G8WEk5TZTxQ/UMw6UQL1NgzjI8DQdsS8oQ9DtdXk49oPpHH\nZMDHsDJ5H7DLfITW3aBnyKeuyK3lIOkvzpm7S8zsT4A0QO63YbyZuqWVgSk1dhIi\nkLybLiLYVX08Zv3BatD9y/5l1AeKIeLHbMerFxvnriO5MR82VWSOMGOq4C503AVk\nldmXpaLh+DkQXN9P47zdfhttyXmbpQRRy8i+VkE8sQKBgQD4f0lxMdKlRIVXiPrW\nxiPoxfIygMiUKcb1ag1PUKdUK+erm4qY+EVX10XpzUTuFYB1h+geGTO0eivXGAt0\n7HDQOWglDwRerkR2uVOh9UGV4EkP4GrziTJLAY/dNm5JasOJ57DcHWs5MJY5shmk\nc4tw4M4c4tMOVB6lDgk5T8mp5QKBgQC2pbJPFzzu0RKCrzFSRXhlnZAAuHZ+Cuoz\n6mtespnbfDMn7LfT0OvJYxRaCCDYGx1UkO2cB/Lcyn+hX+Y+y7+Ao2vhN8lFhCzb\nlg28G8VmizxNa8V73Ff8TZmcKN/ZMiw001XRqEZNyhPe/+KW8KguiQzn7h3NWsfN\nAs+MGYzX1wKBgEcOfr2zdXx0n3xsWu3XMqV5FMyELtbPK2k5rhyj/3T+KPzVOUiM\nlaeMkx1L6Q37cAQrnKAerL5KwQZ8haolggzInZMbPDCmvEUGsXd6XgqxW7MChRKm\nhI8WH0EuM1MjCE8CxXvrnaF41zwgRVzU/WaFoep4oclTHIAuB00wF4ZRAoGALGJ7\nwEiPYCGic+uK+skzBs6RTfuFn/+bBl6zFOImDXZTICKgUXL1uYzAR1iuUpXUPNaz\nRzWPSSRUe6zIUP5GXUZZUvOxj5kdJYeDcvD0uYSgdNf5t63GG+PnrlEohKlyoKuy\nsS5JV2ICDjD0qWV2GUjov/vXdi3XW/SQ5yTWWyUCgYAZZz3OYkFJYgu1iCYdPNMO\nHsXMaf4ZRsy7DdoIdqLvd3XbI1jNpo0tjQJ9sDJAU5D14+GJ/DjWb0eHNgiDlcGD\nqMP42SWFL8qYFVAF6ehFVc5RuEjkJgQWc6tGxj6lNPO+5Ap9/XE/FFVA03Pyxij+\ndqKdLbPr+34rzgPrFM7vxw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataflow-course-sa@cobalt-ripsaw-367515.iam.gserviceaccount.com",
+  "client_id": "114748286494595199530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataflow-course-sa%40cobalt-ripsaw-367515.iam.gserviceaccount.com"
+}
